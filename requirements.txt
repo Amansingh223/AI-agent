@@ -1,0 +1,5 @@
+langchain>=0.1.14
+langchain-community>=0.0.32
+langgraph
+tavily-python
+
